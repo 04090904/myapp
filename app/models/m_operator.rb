@@ -1,0 +1,2 @@
+class MOperator < ApplicationRecord
+end
